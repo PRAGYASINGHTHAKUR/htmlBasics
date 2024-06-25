@@ -1,0 +1,16 @@
+html{
+    scroll-behavior: smooth;
+    background-color: rgb(160, 133, 133);
+    color: rgb(23, 14, 14);
+}
+#grey{
+
+    background-color: aqua;
+
+}
+#pink{
+    background-color: aquamarine;
+}
+#levender{
+    background-color: blanchedalmond;
+}
